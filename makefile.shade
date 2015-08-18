@@ -567,6 +567,7 @@ functions
               "Coherence",
               "Coherence-Signed",
               "dnvm",
+              "HttpClient"
             };
 
             return Enumerable.Concat(nonDefaultRepos, repositories);
