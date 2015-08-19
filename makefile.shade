@@ -730,6 +730,7 @@ functions
                 "SignalR-Server",
                 "SignalR-SQLServer",
                 "SignalR-Redis",
+                "BrowserLink",
                 "Entropy",
             };
 
